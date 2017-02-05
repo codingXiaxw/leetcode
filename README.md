@@ -10,5 +10,11 @@ it records my leetcode learning process, continue to update.
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [Java](https://github.com/codingXiaxw/leetcode/blob/master/algorithms/Java/reverse.java) | easy |
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Java](https://github.com/codingXiaxw/leetcode/blob/master/algorithms/Java/palindromeNumber.java)| easy |
 |13|[Roman to Integer]()|[Java](https://github.com/codingXiaxw/leetcode/blob/master/algorithms/Java/romanToInteger.java)|easy|
-|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Java]()|easy|
-|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Java]()|easy|
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Java](https://github.com/codingXiaxw/leetcode/blob/master/algorithms/Java/longestCommonPrefix.java)|easy|
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Java](https://github.com/codingXiaxw/leetcode/blob/master/algorithms/Java/validParentheses.java)|easy|
+|21|[Merge Two Sorted Lists]()|[Java](https://github.com/codingXiaxw/leetcode/blob/master/algorithms/Java/mergeTwoSortedLists.java)|easy|
+
+
+
+
+
