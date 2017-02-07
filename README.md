@@ -19,7 +19,7 @@ it records my leetcode learning process, continue to update.
 - 3.the wrong question that I did the first time.
 - 4.why I did the wrong answer,how I think in that time.
 
-others:**"＊"** represents something I didn't finish.
+**others:"＊"** represents something I didn't finish.
 
 Hope it helps you in algorithm learning. **Have fun!**
 
@@ -39,6 +39,13 @@ Hope it helps you in algorithm learning. **Have fun!**
 |28|[Implement strStr()]()|[Java](https://github.com/codingXiaxw/leetcode/blob/master/algorithms/Java/implementStrStr.java)|easy|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Java](https://github.com/codingXiaxw/leetcode/blob/master/algorithms/Java/searchInsertPosition.java)|easy|
 |38|＊[Count and Say](https://leetcode.com/problems/count-and-say/)|[Java](https://github.com/codingXiaxw/leetcode/blob/master/algorithms/Java/countAndSay.java)|easy|
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Java](https://github.com/codingXiaxw/leetcode/blob/master/algorithms/Java/lengthOfLastWord.java)|easy|
+|66|＊[Plus One](https://leetcode.com/problems/plus-one/)|[Java](https://github.com/codingXiaxw/leetcode/blob/master/algorithms/Java/plusOne.java)|easy|
+|67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Java](https://github.com/codingXiaxw/leetcode/blob/master/algorithms/Java/addBinary.java)|easy|
+|69|＊[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Java](https://github.com/codingXiaxw/leetcode/blob/master/algorithms/Java/sqrt.java)|easy|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Java](https://github.com/codingXiaxw/leetcode/blob/master/algorithms/Java/climbingStairs.java)|easy|
+|83|＊[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) like #26|[Java](https://github.com/codingXiaxw/leetcode/blob/master/algorithms/Java/removeDuplicatesFromSortedList.java)|easy|
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Java]()|easy|
 
 
 
