@@ -45,7 +45,9 @@ Hope it helps you in algorithm learning. **Have fun!**
 |69|＊[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Java](https://github.com/codingXiaxw/leetcode/blob/master/algorithms/Java/sqrt.java)|easy|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Java](https://github.com/codingXiaxw/leetcode/blob/master/algorithms/Java/climbingStairs.java)|easy|
 |83|＊[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) like #26|[Java](https://github.com/codingXiaxw/leetcode/blob/master/algorithms/Java/removeDuplicatesFromSortedList.java)|easy|
-|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Java]()|easy|
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Java](https://github.com/codingXiaxw/leetcode/blob/master/algorithms/Java/mergeSortedArray.java)|easy|
+|100|[Same Tree](https://leetcode.com/problems/same-tree/)|[Java](https://github.com/codingXiaxw/leetcode/blob/master/algorithms/Java/sameTree.java)|easy|
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Java](https://github.com/codingXiaxw/leetcode/blob/master/algorithms/Java/symmetricTree.java)|easy|
 
 
 
