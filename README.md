@@ -48,6 +48,8 @@ Hope it helps you in algorithm learning. **Have fun!**
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Java](https://github.com/codingXiaxw/leetcode/blob/master/algorithms/Java/mergeSortedArray.java)|easy|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)|[Java](https://github.com/codingXiaxw/leetcode/blob/master/algorithms/Java/sameTree.java)|easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Java](https://github.com/codingXiaxw/leetcode/blob/master/algorithms/Java/symmetricTree.java)|easy|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Java](https://github.com/codingXiaxw/leetcode/blob/master/algorithms/Java/maximumDepthOfBinaryTree.java)|easy|
+|107|[Binary Tree Level Order Traversal II](https://github.com/codingXiaxw/leetcode/blob/master/algorithms/Java/binaryTreeLeverOrderTraversal.java)|[Java]()|easy|
 
 
 
