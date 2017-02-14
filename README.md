@@ -29,8 +29,8 @@ Hope it helps you in algorithm learning. **Have fun!**
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Java](https://github.com/codingXiaxw/leetcode/blob/master/algorithms/Java/two_sum.java) | easy |
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Java](https://github.com/codingXiaxw/leetcode/blob/master/algorithms/Java/addTwoNumbers.java)|Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Java](https://github.com/codingXiaxw/leetcode/blob/master/algorithms/Java/LongestSubstringWithoutRepeatingCharacters.java)|Medium|
-|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Java]()|Medium|
-|6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[Java]()|Medium|
+|5|＊[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Java](https://github.com/codingXiaxw/leetcode/blob/master/algorithms/Java/longestPalindromicSubstring.java)|Medium|
+|6|＊[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[Java](https://github.com/codingXiaxw/leetcode/blob/master/algorithms/Java/zigZag.java)|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [Java](https://github.com/codingXiaxw/leetcode/blob/master/algorithms/Java/reverse.java) | easy |
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Java](https://github.com/codingXiaxw/leetcode/blob/master/algorithms/Java/palindromeNumber.java)| easy |
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Java](https://github.com/codingXiaxw/leetcode/blob/master/algorithms/Java/romanToInteger.java)|easy|
@@ -39,7 +39,7 @@ Hope it helps you in algorithm learning. **Have fun!**
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Java](https://github.com/codingXiaxw/leetcode/blob/master/algorithms/Java/mergeTwoSortedLists.java)|easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Java](https://github.com/codingXiaxw/leetcode/blob/master/algorithms/Java/removeDuplicatesFromSortedArray.java)|easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Java](https://github.com/codingXiaxw/leetcode/blob/master/algorithms/Java/removeElement.java)|easy|
-|28|[Implement strStr()]()|[Java](https://github.com/codingXiaxw/leetcode/blob/master/algorithms/Java/implementStrStr.java)|easy|
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr)|[Java](https://github.com/codingXiaxw/leetcode/blob/master/algorithms/Java/implementStrStr.java)|easy|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Java](https://github.com/codingXiaxw/leetcode/blob/master/algorithms/Java/searchInsertPosition.java)|easy|
 |38|＊[Count and Say](https://leetcode.com/problems/count-and-say/)|[Java](https://github.com/codingXiaxw/leetcode/blob/master/algorithms/Java/countAndSay.java)|easy|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Java](https://github.com/codingXiaxw/leetcode/blob/master/algorithms/Java/lengthOfLastWord.java)|easy|
@@ -52,7 +52,7 @@ Hope it helps you in algorithm learning. **Have fun!**
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)|[Java](https://github.com/codingXiaxw/leetcode/blob/master/algorithms/Java/sameTree.java)|easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Java](https://github.com/codingXiaxw/leetcode/blob/master/algorithms/Java/symmetricTree.java)|easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Java](https://github.com/codingXiaxw/leetcode/blob/master/algorithms/Java/maximumDepthOfBinaryTree.java)|easy|
-|107|[Binary Tree Level Order Traversal II](https://github.com/codingXiaxw/leetcode/blob/master/algorithms/Java/binaryTreeLeverOrderTraversal.java)|[Java]()|easy|
+|107|[Binary Tree Level Order Traversal II](https://github.com/codingXiaxw/leetcode/blob/master/algorithms/Java/binaryTreeLeverOrderTraversal.java)|[Java](https://github.com/codingXiaxw/leetcode/blob/master/algorithms/Java/binaryTreeLevelOrderTraversal.java)|easy|
 
 
 

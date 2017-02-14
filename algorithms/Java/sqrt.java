@@ -11,16 +11,12 @@ public class sqrt
      * 计算并返回x的平方根
      */
 
-    public static void main(String[] args)
-    {
-        System.out.println(Integer.MAX_VALUE+",");
-        System.out.println(16*16*16*16*16*16*16*4*2);
-    }
+    //二分查找法
 
-    public static int sqrt(int x) {
+    public static int mySqrt(int x) {
         if (x == 0)
             return 0;
-        int left = 1, right = Integer.MAX_VALUE;
+        int left = 1, right = x;
         while (true) {
             int mid = left + (right - left)/2;
             if (mid > x/mid) {
@@ -32,4 +28,19 @@ public class sqrt
             }
         }
     }
+
+    //方法二
+//    Explanation
+//
+//    Apparently, using only integer division for the Newton method works. And I guessed that if I start at x, the root candidate will decrease monotonically and never get too small.
+//
+//    The above solutions all got accepted, and in C++ I also verified it locally on my PC for all possible inputs (0 to 2147483647):
+
+
+    /**
+     * long r = x;
+     while (r*r > x)
+     r = (r + x/r) / 2;
+     return (int) r;
+     */
 }

@@ -39,7 +39,7 @@ public class palindromeNumber
     public static void main(String[] args)
     {
 
-        boolean isPalindrome=isPalindrome(2345432);
+        boolean isPalindrome=isPalindrome(5);
         System.out.println(isPalindrome);
     }
 
