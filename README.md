@@ -1,5 +1,9 @@
 # LeetCode
 
+![](https://img.shields.io/travis/USER/REPO/BRANCH.svg)
+![](https://img.shields.io/wordpress/plugin/v/akismet.svg)
+![](https://img.shields.io/packagist/l/doctrine/orm.svg)
+
 it records my leetcode learning process, continue to update.  
 
 
